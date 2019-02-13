@@ -6,4 +6,5 @@ void main(void)
   printf("print this oe, too\n");
 printf("another one\n");
   printf("how about this?");
+  // a comment
 }
